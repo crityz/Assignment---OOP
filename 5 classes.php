@@ -1,3 +1,6 @@
+//James Dominic Ortega
+//BSCS - 2A
+
 <?php
 
 class Hero{
@@ -166,5 +169,6 @@ $thornmail = new Armor("Thornmail", "+70", "+350");
 echo "<br><br>Item Name: " . $thornmail->itemName;
 echo "<br>Armor: " . $thornmail->armor;
 echo "<br>Health: " . $thornmail->hp;
+
 
 ?>
